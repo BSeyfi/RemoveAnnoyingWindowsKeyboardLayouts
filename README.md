@@ -1,5 +1,7 @@
 # RemoveAnnoyingWindowsKeyboardLayouts
 
+<img width="642" alt="image" src="https://github.com/user-attachments/assets/65982bd0-7764-49d1-817a-dee593f55aec" />
+
 ## Problem
 
 Every time your **Windows** computer restarts or wakes up from sleep, extra keyboard layouts (like multiple Persian layouts) are automatically added. Even though you may try everything—editing the registry, removing the Persian language package—these extra layouts remain stubborn.
